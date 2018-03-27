@@ -1,0 +1,13 @@
+c:\git\lottery\lottery\bin\Debug\lottery.exe.config
+c:\git\lottery\lottery\bin\Debug\lottery.exe
+c:\git\lottery\lottery\bin\Debug\lottery.pdb
+c:\git\lottery\lottery\obj\Debug\lottery.csprojResolveAssemblyReference.cache
+c:\git\lottery\lottery\obj\Debug\lottery.exe
+c:\git\lottery\lottery\obj\Debug\lottery.pdb
+C:\Users\james\Desktop\HW02-master\HW02-master\lottery\bin\Debug\lottery.exe.config
+C:\Users\james\Desktop\HW02-master\HW02-master\lottery\bin\Debug\lottery.exe
+C:\Users\james\Desktop\HW02-master\HW02-master\lottery\bin\Debug\lottery.pdb
+C:\Users\james\Desktop\HW02-master\HW02-master\lottery\obj\Debug\lottery.csprojResolveAssemblyReference.cache
+C:\Users\james\Desktop\HW02-master\HW02-master\lottery\obj\Debug\lottery.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\HW02-master\HW02-master\lottery\obj\Debug\lottery.exe
+C:\Users\james\Desktop\HW02-master\HW02-master\lottery\obj\Debug\lottery.pdb
